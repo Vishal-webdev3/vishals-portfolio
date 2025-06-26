@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vishals-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/vishals-portfolio/static/js/main.62f81594.js",
+    "static/js/453.478b815d.chunk.js": "/vishals-portfolio/static/js/453.478b815d.chunk.js",
+    "static/media/vishal.jpg": "/vishals-portfolio/static/media/vishal.8d5f81b31a6524fe77cb.jpg",
+    "index.html": "/vishals-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/vishals-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.62f81594.js.map": "/vishals-portfolio/static/js/main.62f81594.js.map",
+    "453.478b815d.chunk.js.map": "/vishals-portfolio/static/js/453.478b815d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62f81594.js"
+  ]
+}
